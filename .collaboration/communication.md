@@ -25,10 +25,11 @@
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Daily
+- **Pull Requests**: Always
+- **GitHub Discussions**: Never (Not preferred)
+- **Slack/Discord**: Daily
+- **Video Calls**: Weekly/ 2 times per week
 
 ---
 
@@ -40,13 +41,27 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
+
+| Day    |       Monday       |       Tuesday      |      Wednesday      | Thursday | Friday  | Saturday | Sunday  |
+| -------| :-----------------:| :-----------------:| :-----------------: | :------: | :-----: | :------: | :-----: |
+| Batool | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30 | 8 - 9, 13:30-17:30  |  8 - 17  |  8 - 17 | 12 - 20  | 12 - 20 |
+| Adel | 10 - 13 | 10 - 13 | 10 - 13 | 10 - 13  | 10 - 14 | 10 - 13  | 10 - 13 |
+| Fahim Ahmad (CET)| 20 - 22 | 20 - 22 | 20 - 22 | 20 - 22  | 20 - 22 | 18 - 22 | 08 - 10, 18 - 22 |
+| Mohammad (EET) | 9 - 13  | 9 - 13 | 9 - 13  | 9 - 13 | 9 - 13 | 11 - 19 |  11 - 19 |
+| Abed (EET aka GMT+2) | 11 - 16  | 11 - 16 | - | 11-16 | 11-16 | - |  flexible |
+| Mariam(EST) | 9 - 12   | 9 - 12, 16- 20 | 9 - 12, 16- 20  |9 - 12, 16- 20 | 9 - 12, 16- 20 | FLEXIBLE | FLEXIBLE|
+| Viktoria | 10 - 16, 20 - 22 | 10 - 16, 20 - 22 | 10 - 16 | 10 - 16 | 12 - 18, 20 - 22 | - | flexible |
+
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+| Name | Availability Hours (_Per day_) | Comment |
+| -------| :-----------------:| :-----------------:|
+| Mohammad | 4 hours | I'm available 8 hours on Sat & Sun |
+| Abed | 4 hours | I'm not always available during the weekends but am flexible if we schedule ahead |
+| Mariam | 6 hrs| Flexible on Sat and Sun|
+| Viktoria | 4-5 hours | All days except Saturday |
+| Batool  |  4 hours |  All days - more available in the weekends |
+| Fahim Ahmad | 2-4 hours | more flexible on weekends
 
 ## Asking for Help
 
