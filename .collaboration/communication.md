@@ -19,7 +19,9 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|   Friday, 12/01  |   Zoom Meeting  |         Initial Meeting / Collaborative Development               |
+|   Friday, 19/01  |   Zoom Meeting  |         Retrospective              |
+|   Friday, 25/01  |   Slack Meeting  |        Problem Identification               |
 
 ## Communication Channels
 
