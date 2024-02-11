@@ -4,12 +4,12 @@
 
 Welcome to the readme for MIT Emerging Talent **Group 6 (Deadline Gamblers)**! <br> <br>
 Here, we document our collaborative efforts to tackle a pressing healthcare challenge from a global perspective.
-Our diverse team, representing 🇨🇦 Canada, 🇩🇪 Germany, 🇬🇷 Greece, and 🇺🇦 Ukraine, strives to address issues related to healthcare appointment accessibility and financial coverage.
+Our diverse team, representing 🇨🇦**Canada**, 🇩🇪**Germany**, 🇬🇷**Greece**, and 🇺🇦**Ukraine**, strives to address issues related to healthcare appointment accessibility and financial coverage.
 
 ## 🚀 Problem Statement
 Here is the complete [**problem statement**](https://github.com/MIT-Emerging-Talent/2024-group-06-cdsp/blob/main/problem_identification/problem_statement.md).
 
-### Healthcare Challenges: A Global Perspective
+### Healthcare Challenges: Global Perspective
 
 Accessing timely medical appointments and addressing coverage gaps despite tax contributions present common challenges among our team members. Prolonged waiting times and financial concerns have sparked questions about the effectiveness of healthcare systems on a global scale.
 
