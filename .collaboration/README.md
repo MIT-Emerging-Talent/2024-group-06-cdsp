@@ -1,6 +1,7 @@
 # Algorithms and Data Structures: Group Study
 
 ## Group norms summary:
+
 We emphasize on consistent communication, respecting schedules, and addressing conflicts openly. We promote a balanced approach to discussions, encourage flexible meeting strategies, and stress effective communication.
 
 The team values kindness, support, inclusion, respect, and group learning create a respectful and constructive working atmosphere.
@@ -39,6 +40,7 @@ The team values kindness, support, inclusion, respect, and group learning create
     - Constructive feedback.
 
 ### Team Values:
+
 - `Kindness`
 - `Support`
 - `Inclusion`
