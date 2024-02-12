@@ -1,6 +1,6 @@
 # 💫 Retrospective
 
-## 🪨 Milestone-1 _ Problem Identification
+## Final Presentation
 
 | Stop Doing    | Continue Doing  | Start Doing | Lessons Learned |
 | ------        | :-----:         | :-----:     | :-------:       |

@@ -1,6 +1,6 @@
 # 💫 Retrospective
 
-# 🪨 Milestone-3 _ Data Analysis
+## Communicating Results
 
 | Stop Doing    | Continue Doing  | Start Doing | Lessons Learned |
 | ------        | :-----:         | :-----:     | :-------:       |
