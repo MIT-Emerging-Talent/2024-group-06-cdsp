@@ -1,6 +1,6 @@
 # 💫 Retrospective
 
-## Data Analysis
+# 🪨 Milestone-2 _ Data Collection
 
 | Stop Doing    | Continue Doing  | Start Doing | Lessons Learned |
 | ------        | :-----:         | :-----:     | :-------:       |
