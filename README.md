@@ -3,46 +3,48 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVqYW1pOXhhcmthMmwxZmcwOTBoamJ3cDRwYWloczlpa2ZvbTFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgXcPI6dhWBIEkWSU1/source.gif" alt="Alt Text" width="600" />
 </p>
-
 ## 🌐 Overview
 
-Welcome to the readme for MIT Emerging Talent **Group 6 (Deadline Gamblers)**! <br> <br>
-Here, we document our collaborative efforts to tackle a pressing healthcare challenge from a global perspective.
-Our diverse team, operating from 🇨🇦**Canada**, 🇩🇪**Germany**, 🇬🇷**Greece**, and 🇺🇦**Ukraine**, tries to analyse bombing on healthcare facilities in conflict zones.
+Welcome to the readme for our project focused on analyzing the impact of attacks on healthcare facilities in conflict zones. Our diverse team, hailing from 🇨🇦**Canada**, 🇩🇪**Germany**, 🇬🇷**Greece**, and 🇺🇦**Ukraine**, collaborates to address this critical issue from a global perspective.
 
 ## 🚀 Problem Statement
-Here is the complete [**problem statement**](https://github.com/MIT-Emerging-Talent/2024-group-06-cdsp/blob/main/problem_identification/problem_statement.md).
+Access our complete [**problem statement**](https://github.com/MIT-Emerging-Talent/2024-group-06-cdsp/blob/main/problem_identification/problem_statement.md).
 
-### Healthcare Challenges: Global Perspective
+### Attacks on Healthcare Facilities: A Global Crisis
 
-Accessing timely medical appointments and addressing coverage gaps despite tax contributions present common challenges among our team members. Prolonged waiting times and financial concerns have sparked questions about the effectiveness of healthcare systems on a global scale.
+Our team explores the devastating effects of attacks on healthcare facilities in conflict zones, examining the direct impacts on service delivery, infrastructure damage, and human casualties. These attacks not only disrupt healthcare services but also have far-reaching implications on global health security and international humanitarian law.
 
 ### Core Issues
 
-1. **Appointment Accessibility:** Difficulties securing timely appointments with healthcare providers persist across diverse geographical locations.
-   
-2. **Financial Coverage:** Despite tax contributions, gaps in healthcare coverage persist, leading to financial concerns for individuals in different countries.
+1. **Service Disruption:** The immediate halt of healthcare services following attacks, affecting emergency and routine care.
+2. **Infrastructure Damage:** The physical destruction of healthcare facilities, leading to long-term service discontinuity.
+3. **Casualties:** The toll on human life, including healthcare workers and patients, resulting from these violent attacks.
 
 ### Global Impact
 
-The team's shared experience highlights the need for a comprehensive investigation into the root causes of appointment delays and coverage gaps. This investigation aims to unveil insights that will contribute to developing innovative solutions fostering improvements in healthcare accessibility and efficiency internationally.
+We highlight the need for a comprehensive understanding of how these attacks contribute to broader healthcare system vulnerabilities. Our investigation aims to uncover patterns and systemic weaknesses, guiding the development of strategies to protect healthcare services and improve resilience in conflict-affected areas.
+
 ## 🔄 System and Design Thinking
-Here is the complete [**System and Design Thinking**](https://github.com/MIT-Emerging-Talent/2024-group-06-cdsp/blob/main/problem_identification/system_design_thinking.md).
+Access our detailed exploration of [**System and Design Thinking**](https://github.com/MIT-Emerging-Talent/2024-group-06-cdsp/blob/main/problem_identification/system_design_thinking.md).
+
 ### Key Features
 
-1. **Global Consensus**: 
-Team members unanimously recognize common healthcare challenges globally.
-2. **Actionable Problems**: Identified issues include difficulty in appointment scheduling and financial coverage gaps.
-3. **Design Thinking**: Utilizing empathy, ideation, and prototyping to propose creative solutions.
-4. **Systems Thinking**: Acknowledging interconnected factors and negative feedback loops influencing healthcare challenges.
-Goal
+1. **Global Perspective**: 
+Our team's diverse backgrounds allow us to understand the widespread nature of healthcare facility attacks and their global implications.
+2. **Actionable Problems**: Identifying specific challenges such as service disruption, infrastructure damage, and human casualties.
+3. **Design Thinking**: Leveraging empathy, ideation, and prototyping to develop innovative solutions for protecting healthcare facilities.
+4. **Systems Thinking**: Considering the complex interplay of conflict dynamics, healthcare infrastructure, and international norms in addressing these challenges.
 
-The aim is to inform actionable improvements and contribute to the development of a more efficient and inclusive healthcare system.
+### Goal
+
+Our objective is to offer actionable insights and contribute to strengthening the resilience of healthcare systems in conflict zones, ensuring the safety and continuity of medical services.
+
 ## 🔍 Actionable Research Questions
 
+Our [**research questions**](https://github.com/MIT-Emerging-Talent/2024-group-06-cdsp/blob/main/problem_identification/actionable_questions.md) delve into identifying effective strategies, innovative solutions, and international collaborations to safeguard healthcare facilities against attacks and ensure the provision of uninterrupted healthcare services in conflict zones.
 
-Our [**research questions**](https://github.com/MIT-Emerging-Talent/2024-group-06-cdsp/blob/main/problem_identification/actionable_questions.md) aim to uncover insights into the root causes of appointment delays and coverage gaps, investigating the causes and solutions for enhancing healthcare accessibility and efficiency on a global scale.
-The main points considered in our questions are:
-- **Appointment Accessibility**
-- **Financial Coverage**
-- **The Global Impact**
+The main areas of focus include:
+- **Service Disruption**
+- **Infrastructure Damage**
+- **Casualties**
+- **Global Impact**
