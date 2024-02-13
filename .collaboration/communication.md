@@ -63,6 +63,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Viktoria    | 4-5 hours                      | All days except Saturday                   |
 | Batool      |  4 hours                       |  All days - more available in the weekends |
 | Fahim Ahmad | 2-4 hours                      | more flexible on weekends                  |
+| Adel Batal  | 4 hours                        | more flexible on weekends                  |
 
 ---
 
