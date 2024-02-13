@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVqYW1pOXhhcmthMmwxZmcwOTBoamJ3cDRwYWloczlpa2ZvbTFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgXcPI6dhWBIEkWSU1/source.gif" alt="Alt Text" width="600" />
 </p>
+
 ## 🌐 Overview
 
 Welcome to the readme for our project focused on analyzing the impact of attacks on healthcare facilities in conflict zones. Our diverse team, hailing from 🇨🇦**Canada**, 🇩🇪**Germany**, 🇬🇷**Greece**, and 🇺🇦**Ukraine**, collaborates to address this critical issue from a global perspective.
