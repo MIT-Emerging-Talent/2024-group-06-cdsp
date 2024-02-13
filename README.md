@@ -1,5 +1,6 @@
 # MIT Emerging Talent - Group 6 (Deadline Gamblers)
 
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVqYW1pOXhhcmthMmwxZmcwOTBoamJ3cDRwYWloczlpa2ZvbTFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgXcPI6dhWBIEkWSU1/source.gif)
 ## 🌐 Overview
 
 Welcome to the readme for MIT Emerging Talent **Group 6 (Deadline Gamblers)**! <br> <br>
