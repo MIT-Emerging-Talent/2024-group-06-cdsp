@@ -8,7 +8,7 @@
 
 Welcome to the readme for MIT Emerging Talent **Group 6 (Deadline Gamblers)**! <br> <br>
 Here, we document our collaborative efforts to tackle a pressing healthcare challenge from a global perspective.
-Our diverse team, representing 🇨🇦**Canada**, 🇩🇪**Germany**, 🇬🇷**Greece**, and 🇺🇦**Ukraine**, strives to address issues related to healthcare appointment accessibility and financial coverage.
+Our diverse team, operating from 🇨🇦**Canada**, 🇩🇪**Germany**, 🇬🇷**Greece**, and 🇺🇦**Ukraine**, tries to analyse bombing on healthcare facilities in conflict zones.
 
 ## 🚀 Problem Statement
 Here is the complete [**problem statement**](https://github.com/MIT-Emerging-Talent/2024-group-06-cdsp/blob/main/problem_identification/problem_statement.md).
