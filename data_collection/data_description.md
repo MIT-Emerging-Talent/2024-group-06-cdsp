@@ -40,5 +40,17 @@ The following are the reported features/columns included within the data collect
 | Patient Arrest      | Patient arrest.                                                                                                                                                            |
 | Patient Detention   | Patient detention.                                                                                                                                                         |
 
+### Attack Types Categories and Descriptions
+| Attack Type                     | Description                                                                                                                                                                |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Psychological violence          | Includes threats of violence, intimidation, emotional abuse (insults, belittling, humiliation), or explicit declarations of intent to inflict harm (physical or psychological). |
+| Removal of health care assets   | Involves looting, robbery, or theft of health care assets. Looting refers to stealing goods during war or riots. Theft is unauthorized taking, while robbery involves force or threat. |
+| Removal of health care personnel or patients | Abduction, arrest, or detention of health care personnel or patients.                                                                                                     |
+| Setting fire                    | Malicious burning, arson.                                                                                                                                               |
+| Sexual assault                  | Non-consensual sexual acts committed against someone.                                                                                                                    |
+| Violence with heavy weapons     | Violence involving weapons requiring more than one person, like firearms
+| Violence with individual weapons | Violence using weapons like knives, bricks, clubs, guns, grenades, or improvised explosive devices (IEDs).                                                                   |
+
+
 ### Data Timeline:
 The reported data is between Dec. 2017 - Feb. 2024
