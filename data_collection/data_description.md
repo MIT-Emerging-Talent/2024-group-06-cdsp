@@ -41,6 +41,7 @@ The following are the reported features/columns included within the data collect
 | Patient Detention   | Patient detention.                                                                                                                                                         |
 
 ### Attack Types Categories and Descriptions
+
 | Attack Type                     | Description                                                                                                                                                                |
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Psychological violence          | Includes threats of violence, intimidation, emotional abuse (insults, belittling, humiliation), or explicit declarations of intent to inflict harm (physical or psychological). |
@@ -48,9 +49,16 @@ The following are the reported features/columns included within the data collect
 | Removal of health care personnel or patients | Abduction, arrest, or detention of health care personnel or patients.                                                                                                     |
 | Setting fire                    | Malicious burning, arson.                                                                                                                                               |
 | Sexual assault                  | Non-consensual sexual acts committed against someone.                                                                                                                    |
-| Violence with heavy weapons     | Violence involving weapons requiring more than one person, like firearms
-| Violence with individual weapons | Violence using weapons like knives, bricks, clubs, guns, grenades, or improvised explosive devices (IEDs).                                                                   |
-
+| Violence with heavy weapons     | Violence involving weapons requiring more than one person, like firearms, tanks, missiles, bombs, or mortars.                                                               |
+| Violence with individual weapons| Violence using weapons like knives, bricks, clubs, guns, grenades, or improvised explosive devices (IEDs).                                                                  |
+| Abduction                       | The unlawful removal, seizure, capture, apprehension, taking, or enforced disappearance of a person either temporarily or permanently.                                      |
+| Armed or violent search         | Examination of a person’s body or property, or of a health care facility or transport through the use of physical violence, weapons, or other means of coercion.           |
+| Arrest                          | A seizure or forcible restraint; an exercise of the power to deprive a person of his or her liberty.                                                                      |
+| Assault                         | Violence inflicted from one person to another person that does not involve individual weapons or heavy weapons.                                                           |
+| Chemical agent                  | A hazardous chemical has been intentionally released, and the release has the potential for harming people’s health.                                                       |
+| Detention                       | The condition of being held in confinement and deprived of personal liberty.                                                                                              |
+| Militarization of civilian health care facility | Diversion of or interference with the primary use of civilian (i.e., non-military) health care facilities or transport by state military or paramilitary forces or non-state armed groups. |
+| Obstruction to health care delivery (e.g. physical, administrative, or legal) | Any act resulting in blocking or preventing access to health care (e.g., an ambulance is prevented from accessing patients, or patients are inhibited from accessing or receiving needed health services). |
 
 ### Data Timeline:
 The reported data is between Dec. 2017 - Feb. 2024
