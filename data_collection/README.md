@@ -61,4 +61,6 @@ The following are the reported features/columns included within the data collect
 | Obstruction to health care delivery (e.g. physical, administrative, or legal) | Any act resulting in blocking or preventing access to health care (e.g., an ambulance is prevented from accessing patients, or patients are inhibited from accessing or receiving needed health services). |
 
 ### Data Timeline:
+
 The reported data is between Dec. 2017 - Feb. 2024
+
