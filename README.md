@@ -9,7 +9,9 @@
 Welcome to the readme for our project focused on analyzing the impact of attacks on healthcare facilities in conflict zones. Our diverse team, hailing from 🇨🇦**Canada**, 🇩🇪**Germany**, 🇬🇷**Greece**, and 🇺🇦**Ukraine**, collaborates to address this critical issue from a global perspective.
 
 ## 🚀 Problem Statement
-Access our complete [**problem statement**](problem_identification/problem_statement.md).
+
+Access our complete [**problem statement**](problem_identification/README.md).
+
 
 ### Attacks on Healthcare Facilities: A Global Crisis
 
@@ -26,7 +28,8 @@ Our team explores the devastating effects of attacks on healthcare facilities in
 We highlight the need for a comprehensive understanding of how these attacks contribute to broader healthcare system vulnerabilities. Our investigation aims to uncover patterns and systemic weaknesses, guiding the development of strategies to protect healthcare services and improve resilience in conflict-affected areas.
 
 ## 🔄 System and Design Thinking
-Access our detailed exploration of [**System and Design Thinking**](problem_identification/system_design_thinking.md).
+
+Access our detailed exploration of [**System and Design Thinking**](problem_identification/README.md#systems-thinking-in-healthcare).
 
 ### Key Features
 
@@ -42,7 +45,9 @@ Our objective is to offer actionable insights and contribute to strengthening th
 
 ## 🔍 Actionable Research Questions
 
-Our [**research questions**](problem_identification/actionable_questions.md) delve into identifying effective strategies, innovative solutions, and international collaborations to safeguard healthcare facilities against attacks and ensure the provision of uninterrupted healthcare services in conflict zones.
+
+Our [**research questions**](problem_identification/README.md#actionable-research-questions) delve into identifying effective strategies, innovative solutions, and international collaborations to safeguard healthcare facilities against attacks and ensure the provision of uninterrupted healthcare services in conflict zones.
+
 
 The main areas of focus include:
 - **Service Disruption**
