@@ -26,7 +26,7 @@ Our team explores the devastating effects of attacks on healthcare facilities in
 We highlight the need for a comprehensive understanding of how these attacks contribute to broader healthcare system vulnerabilities. Our investigation aims to uncover patterns and systemic weaknesses, guiding the development of strategies to protect healthcare services and improve resilience in conflict-affected areas.
 
 ## 🔄 System and Design Thinking
-Access our detailed exploration of[**System and Design Thinking**](problem_identification/system_design_thinking.md).
+Access our detailed exploration of [**System and Design Thinking**](problem_identification/system_design_thinking.md).
 
 ### Key Features
 
