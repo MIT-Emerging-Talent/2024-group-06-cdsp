@@ -45,7 +45,6 @@ Our objective is to offer actionable insights and contribute to strengthening th
 
 ## 🔍 Actionable Research Questions
 
-
 Our [**research questions**](problem_identification/README.md#actionable-research-questions) delve into identifying effective strategies, innovative solutions, and international collaborations to safeguard healthcare facilities against attacks and ensure the provision of uninterrupted healthcare services in conflict zones.
 
 
