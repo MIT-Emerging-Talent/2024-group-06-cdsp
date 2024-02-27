@@ -33,7 +33,7 @@ def remove_parentheses(s):
     return re.sub(pattern, '', s)
 
 
-attackTypeRows = df['AttackType'].tolist()
+attackTypeRows = df['Attack Type'].tolist()
 
 uniqueAttackTypes = set(attackTypeRows)
 
@@ -52,7 +52,7 @@ uniqueAllAttackTypes = list(set(allAttackTypes))
 new_df = df.copy()
 
 for attack_type in uniqueAllAttackTypes:
-    new_df[attack_type] = new_df['AttackType'].apply(lambda x: attack_type in x)
+    new_df[attack_type] = new_df['Attack Type'].apply(lambda x: attack_type in x)
     
 
 output_file_path = '../data_collection/attacks-on-health-care-systems-cleaned.csv'
