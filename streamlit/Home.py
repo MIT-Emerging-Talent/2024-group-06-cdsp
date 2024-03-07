@@ -4,7 +4,7 @@ import altair as alt
 
 st.set_page_config(layout="wide") # set layout to wide
 
-data = pd.read_csv('attacks-on-health-care-systems-cleaned.csv') # read data from csv file
+data = pd.read_csv('./streamlit/attacks-on-health-care-systems-cleaned.csv') # read data from csv file
 
 
 

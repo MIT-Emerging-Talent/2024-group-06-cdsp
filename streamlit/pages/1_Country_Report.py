@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-data = pd.read_csv('attacks-on-health-care-systems-cleaned.csv') # read data from csv file
+data = pd.read_csv('./streamlit/attacks-on-health-care-systems-cleaned.csv') # read data from csv file
 
 st.set_page_config(layout="wide") # set layout to wide
 def country_report(country, col):
@@ -12,7 +12,7 @@ def country_report(country, col):
     country_attack_count = sum(data['Country'] == country)
     deaths = int(country_df['Total Death'].sum())
     injuries = int(country_df['Total Injured'].sum())
-    
+
     # Calculate the attack-to-death ratio as a float
     attack_to_death_ratio = country_attack_count / deaths
     integer_part = int(attack_to_death_ratio)
