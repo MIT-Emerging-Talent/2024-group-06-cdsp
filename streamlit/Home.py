@@ -41,8 +41,6 @@ st.markdown('''
             #### Types of Attacks on Healthcare Facilities
             ''')
 
-data = pd.read_csv('attacks-on-health-care-systems-cleaned.csv') # read data from csv file
-
 
 attack_types_columns = [
     "Sexual assault",
