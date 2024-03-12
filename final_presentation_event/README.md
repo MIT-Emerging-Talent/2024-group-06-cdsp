@@ -12,7 +12,7 @@ In this final presentation, our main focus will be communicating the analysis an
 
 ## Key Story Points
 
-We tried to create a story based on our analysis results, and here is the [link to our story](final_presentation_event/analysis_story).
+We tried to create a story based on our analysis results, and here is the [link to our story](/analysis_story).
 
 ## Key Points
 
