@@ -1,6 +1,6 @@
 ## Communicating Results
 ### Overview
-This milestone focuses on effectively communicating the results of our project to our target audiences: Healthcare Workers, People in War-Affected Areas, and Peace and War Researchers.
+This milestone focuses on effectively communicating the project's results to its target audiences: Healthcare Workers, People in War-Affected Areas, and Peace and War Researchers.
 
 ### Target Audience
 - Healthcare Workers
@@ -12,7 +12,7 @@ This milestone focuses on effectively communicating the results of our project t
 ### Key Points
 1. Insights for Healthcare Workers:
 
-Our findings address healthcare challenges, few best practices, and support resources tailored to Healthcare Workers operating in conflict zones.
+Our findings address healthcare challenges, a few best practices, and support resources tailored to Healthcare Workers operating in conflict zones.
 
 2. Impact on War-Affected Communities:
 We provide insights into healthcare access, community resilience, and emergency response efforts for individuals and communities affected by conflict.
@@ -25,7 +25,7 @@ Also, find another stats analysis generated using ShinyApp [here](https://fahim-
 
 
 ### Utilizing the Results
-We encourage Healthcare Workers, People in War-Affected Areas, and Peace and War Researchers to utilize our findings to inform their work, policies, and interventions aimed at addressing the challenges of conflict and promoting health and well-being in affected communities.
+We encourage Healthcare Workers, People in War-Affected Areas, and Peace and War Researchers to utilize our findings to inform their work, policies, and interventions to address the challenges of conflict and promote health and well-being in affected communities.
 
 ### Feedback and Contact
 For questions, feedback, or inquiries, please contact us.
