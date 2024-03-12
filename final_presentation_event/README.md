@@ -8,17 +8,17 @@ Welcome to the final presentation of our project! This README provides essential
 
 ## Presentation Focus
 
-In this final presentation, our main focus will be on communicating the analysis and insights derived from our project "Attacks on Healthcare Facilities" through interactive dashboards. These dashboards serve as powerful tools for visualizing data, highlighting key findings, and providing actionable insights to our audience.
+In this final presentation, our main focus will be communicating the analysis and insights derived from our project "Attacks on Healthcare Facilities" through interactive dashboards. These dashboards serve as powerful tools for visualizing data, highlighting key findings, and providing actionable insights to our audience.
 
 ## Key Story Points
 
-We tried to create a srtory based on our analysis results, and here si the [link to our story](final_presentation_event/analysis_story).
+We tried to create a story based on our analysis results, and here is the [link to our story](final_presentation_event/analysis_story).
 
 ## Key Points
 
 - **Interactive Dashboards**: Our presentation will feature interactive dashboards that allow for dynamic exploration of the data and analysis results.
 
-- **Data Visualization**: We will showcase visually engaging charts, graphs, and maps to convey complex information in a clear and understandable manner.
+- **Data Visualization**: We will showcase visually engaging charts, graphs, and maps to convey complex information clearly and understandably.
 
 - **Insightful Analysis**: Through our dashboards, we will communicate insightful analysis and findings, providing valuable insights to our audience.
 
@@ -40,4 +40,6 @@ To access the interactive dashboards, please visit [Live Streamlit Link - Hospit
 
 If you have any questions or inquiries regarding the presentation or our project, please feel free to contact us.
 
-Thank you for your interest in our project, "**Attacks on Healthcare Facilities**," and we look forward to sharing our analysis and insights with you during the presentation!
+Thank you for your interest in our project, "Attacks on Healthcare Facilities." 
+
+We look forward to sharing our analysis and insights with you during the presentation!
